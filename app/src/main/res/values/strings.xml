@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scoring App</string>
+    <string name="mind_the_score">Mind The Score!</string>
+    <string name="away_score_initialValue">0</string>
+    <string name="home_score_initialValue">0</string>
+    <string name="home_point">Home Point</string>
+    <string name="away_point">Away Point</string>
+</resources>

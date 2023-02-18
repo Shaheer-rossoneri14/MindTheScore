@@ -1,5 +1,5 @@
 # MindTheScore
-A Simple Application to keep track of points in games like Table Tennis, Badminton, Football or Hockey.
+Created an Android application that simplifies the process of keeping score in various games, including Table Tennis, Badminton, Football, and Hockey. This user-friendly app allows players to easily record and display points, track the progress of the game, and make adjustments as needed. With a streamlined interface and intuitive design, this app is ideal for sports enthusiasts looking for an efficient way to manage their games.
 
 Glimpse of the Application
 
